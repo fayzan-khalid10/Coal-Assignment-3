@@ -96,7 +96,7 @@ Inside Notepad++, use the built-in hotkeys:
 
 The plugin assembles the `.asm` with NASM, launches DOSBox automatically, and executes the resulting binary — no manual `nasm` or `mount` commands needed.
 
-![image alt](https://github.com/fayzan-khalid10/Coal-Assignment-3/blob/91a64eb3d64b9703ae9168f47598f3797b6e3505/Screenshot%202026-10-19%20224306.png)
+![image alt]()
 
 
 ### 5. Editing and re-running
